@@ -1,5 +1,5 @@
 # 💫 About Me:
-Shivansh Gupta | B.Tech (IT) @ CGC Landran <br>+1<br><br>I am a motivated developer with a solid foundation in Data Structures, Algorithms, and Web Development. My technical journey includes building responsive platforms and exploring the potential of AI through national-level programs.<br>+4<br><br>Technical Toolkit: * Languages: C++, JavaScript, HTML/CSS. * Databases: MySQL (NPTEL Certified - IIT Kharagpur). * Tools: Git, GitHub, VS Code, and AWS Cloud. * Core Concepts: OOP, SDLC, REST Basics, and Prompt Engineering<br>I thrive in collaborative environments and am dedicated to ethical technology use and continuous learning.
+Shivansh Gupta | B.Tech (IT) @ CGC Landran <br>I am a motivated developer with a solid foundation in Data Structures, Algorithms, and Web Development. My technical journey includes building responsive platforms and exploring the potential of AI through national-level programs.<br>+4<br><br>Technical Toolkit: * Languages: C++, JavaScript, HTML/CSS. * Databases: MySQL (NPTEL Certified - IIT Kharagpur). * Tools: Git, GitHub, VS Code, and AWS Cloud. * Core Concepts: OOP, SDLC, REST Basics, and Prompt Engineering<br>I thrive in collaborative environments and am dedicated to ethical technology use and continuous learning.
 
 
 ## 🌐 Socials:
