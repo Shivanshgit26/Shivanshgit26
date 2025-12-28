@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💻 About Me
 
 <p align="left">
   <img src="https://github.com/Shivanshgit26.png" width="150" height="150" style="border-radius: 50%;" />
