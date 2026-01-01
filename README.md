@@ -4,7 +4,7 @@
   <img src="https://github.com/Shivanshgit26.png" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-Shivansh Gupta | B.Tech (Information Technology) at Chandigarh Engineering College (CGC Landran)
+Shivansh Gupta | B.Tech (Information Technology) at Chandigarh Engineering College (CGC Landran,Mohali)
 
 I am a motivated developer with a solid foundation in Data Structures, Algorithms, and Web Development. My technical journey includes building responsive platforms and exploring the potential of AI through national-level programs like the Bharat AI Quest (Level 3) at IIT Bombay.
 
